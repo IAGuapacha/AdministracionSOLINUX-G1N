@@ -12,11 +12,11 @@
 
 Para esto lo primero que debebemos hacer es ir a nuestro home y empezar a crear las carpetas desde abuelo hasta hijo
 
-<img src="Creacion de carpetas abuelo.PNG" />
+<img src="Creacion de carpetas abuelo.png" />
 
 Hacemos lo mismo pero en este caspo para las carpetas abuela hasta hija
 
-<img src="Creacion de carpetas abuela.PNG" />
+<img src="Creacion de carpetas abuela.png" />
 
 
 ## 2. Ingresar a cada directorio y crear un archivo a través de CLI o consola este archivo debe contener la siguiente información:
@@ -27,33 +27,33 @@ Hacemos lo mismo pero en este caspo para las carpetas abuela hasta hija
 
 con el comando cd no dirigimos hasta la carpeta abuelo y alli con el comando vi [nombre archivo] creamos el archivo de texto para Jair
 
-<img src="Crear archivo Abuelo.PNG" />
+<img src="Crear archivo Abuelo.png" />
 
 Cuando ejecutemos el  comando vi Jair se nos abrira el editor de archivos Vi alli precionamos la tecla i para poder modificar el archivo, modificamos el archivo y para salir precinamos esc y luego wq para indicar que vamos a guardar el archivo y salir
 
-<img src="Modificar contenido de archivo Abuelo.PNG" />
+<img src="Modificar contenido de archivo Abuelo.png" />
 
 Este mismo procedimiento aplica para el resto de archivo de la estructura solicitada
 
 Archivo Padre
 
-<img src="Archivo Padre.PNG" />
+<img src="Archivo Padre.png" />
 
 Archivo Hijo
 
-<img src="Archivo Hijo.PNG" />
+<img src="Archivo Hijo.png" />
 
 Archivo Abuela
 
-<img src="Archivo Abuela.PNG" />
+<img src="Archivo Abuela.png" />
 
 Archivo Madre 
 
-<img src="Archivo Madre.PNG" />
+<img src="Archivo Madre.png" />
 
 Archivo Hija
 
-<img src="Archivo Hija.PNG" />
+<img src="Archivo Hija.png" />
 
 
 
@@ -61,11 +61,11 @@ Archivo Hija
 
 Para el direcctorio Abuelo
 
-<img src="Abuelo tree.PNG" />
+<img src="Abuelo tree.png" />
 
 Para el direcctorio Abuela
 
-<img src="Abuela tree.PNG" />
+<img src="Abuela tree.png" />
 
 
 
